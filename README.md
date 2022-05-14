@@ -7,7 +7,12 @@
 
 #fisher.R - How to calculate fisher test p-value for a complete det of omic data by using apply function
 
+#IFS_mRMRe - Iterative feature selection and validation by mRMRE
+
 #FeatureSelection. R - To identify the most important features in the datasets, ten different techniques of FS merged using robust rank algorithm
+
+#RFmodelFS.R - Continuation of previous code wherein the identified features from each technique are validated by checking the performance of the new models with the selected features
+
 
 #To produce an adjacency matrix data from an edgelist data of a network (Node1,node2,weight)
 
