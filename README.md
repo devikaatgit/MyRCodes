@@ -14,3 +14,5 @@
 #AdjacencyNWMatrix1.R - Exclusive node slection where node 1 and node 2 lists are not same and the variables can be alphanumeric
 
 #AdjacencyNWMatrix2.R - To construct square matrix with all nodes to nodes connections - including self connections
+
+#NetworkMatrixtoTable.R - Code to convert a network data in adjacency matrix format to an edgelist tabular form data
