@@ -8,3 +8,9 @@
 #fisher.R - How to calculate fisher test p-value for a complete det of omic data by using apply function
 
 #FeatureSelection. R - To identify the most important features in the datasets, ten different techniques of FS merged using robust rank algorithm
+
+#To produce an adjacency matrix data from an edgelist data of a network (Node1,node2,weight)
+
+#AdjacencyNWMatrix1.R - Exclusive node slection where node 1 and node 2 lists are not same and the variables can be alphanumeric
+
+#AdjacencyNWMatrix2.R - To construct square matrix with all nodes to nodes connections - including self connections
