@@ -4,3 +4,5 @@
 #MLmodels.R - Commands for renning ML models for transcriptomic data and performance evaluation by caret package
 
 #pval.R - Working with p-values and q-values
+
+#fisher.R - How to calculate fisher test p-value for a complete det of omic data by using apply function
